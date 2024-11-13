@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Full stack Developer <br>👯 I’m looking to collaborate on any project idea<br>🌱 <br>💬 Ask me about anything<br>⚡ Fun fact Did you know what my bio means let me tell you "I took bio in my high school so can't write bio now" lame! I know 
+🔭 I am a Full stack Developer <br>👯 I’m looking to collaborate on any project idea <br>💬 Ask me about anything<br>⚡ Fun fact Did you know what my bio means let me tell you "I took bio in my high school so can't write bio now" lame! I know 
 
 
 
@@ -13,9 +13,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Skysparko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=RakhechaShubham)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
