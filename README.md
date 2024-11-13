@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Full stack Developer <br>👯 I’m looking to collaborate on any project idea<br>🌱 I’m currently exploring app development<br>💬 Ask me about anything<br>⚡ Fun fact Did you know what my bio means let me tell you "I took bio in my high school so can't write bio now" lame! I know 
+🔭 I am a Full stack Developer <br>👯 I’m looking to collaborate on any project idea<br>🌱 <br>💬 Ask me about anything<br>⚡ Fun fact Did you know what my bio means let me tell you "I took bio in my high school so can't write bio now" lame! I know 
 
 
 
